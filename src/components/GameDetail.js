@@ -179,8 +179,4 @@ const Description = styled(motion.div)`
   margin: 5rem 0rem;
 `
 
-const Rating = styled(motion.div)`
-  display: flex;
-`
-
 export default GameDetail
